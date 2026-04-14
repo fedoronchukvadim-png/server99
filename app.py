@@ -93,7 +93,7 @@ for route in app.router.routes():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     print("=" * 50)
-    print("   🚀 MODERN MESSENGER (FIXED) 🚀")
+    print("   🚀 MODERN MESSENGER (WORKING) 🚀")
     print("=" * 50)
     print(f"Сервер запущен на порту {port}")
     print(f"WebSocket endpoint: /ws")
